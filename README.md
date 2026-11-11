@@ -1,4 +1,4 @@
-[sasa_polyester_finansal_analiti_i_readme (1).md](https://github.com/user-attachments/files/34667039/sasa_polyester_finansal_analiti_i_readme.1.md)[Uploading sasa_polyester_fin# 📊 SASA Polyester - Finansal Performans, Dikey/Yatay & Rasyo Analiz Raporu (MS Excel)
+📊 SASA Polyester - Finansal Performans, Dikey/Yatay & Rasyo Analiz Raporu (MS Excel)
 
  Bu proje; SASA Polyester Sanayi A.Ş.'nin 2019–2024 yılları arasındaki Bilanço ve Gelir Tabloları üzerinden gerçekleştirilen **Dikey Analiz**, **Yatay (Trend) Analiz** ve **Rasyo Hesaplamalarının** sayısal verilerini ve stratejik veri analisti içgörülerini içerir.
 
